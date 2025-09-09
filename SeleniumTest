@@ -2,7 +2,8 @@ public class SeleniumTest {
 
 	public static void main(String[] args) {
 		System.out.println("Hello This is the new project");
-	System.out.println("Hello This is the new project")
+	System.out.println("Hello");
+System.out.println("new change")
 	}
 
 }
