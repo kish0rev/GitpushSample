@@ -6,6 +6,7 @@ public class SeleniumTest {
 	System.out.println("new change");
 	System.out.println("Hello This is the new project");
 System.out.println("Hello This is the new project");
+System.out.println("Hi");
 	}
 
 }
